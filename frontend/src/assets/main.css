@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.feedback-box {
+  display: flex;
+  gap: 10px;
+  border: 2px solid #ef4444;
+  padding: 12px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.input {
+  width: 100%;
+  border: 2px solid #ef4444;
+  padding: 10px;
+  border-radius: 12px;
+}
